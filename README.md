@@ -12,6 +12,6 @@ $ pkg install php
 $ pkg install pip
 $ pip install --upgrade pip
 $ pip install requests
-$ git clone https://github.com/HRCXXII/SPAM-SMS-XXII
+$ git clone https://github.com/HRCXXII/SPAM-SMS-XXII.git
 $ cd 
 $ python SpamSMSQ.py
