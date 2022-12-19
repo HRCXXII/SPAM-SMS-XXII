@@ -13,5 +13,6 @@ $ pkg install pip
 $ pip install --upgrade pip
 $ pip install requests
 $ git clone https://github.com/HRCXXII/SPAM-SMS-XXII.git
-$ cd 
+$ cd SPAM-SMS-XXII
+$ chmod +x SpamSMSQ.py
 $ python SpamSMSQ.py
