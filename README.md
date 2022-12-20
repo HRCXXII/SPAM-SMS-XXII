@@ -1,18 +1,19 @@
-# SPAM-SMS-XXII
-KATA PERINTAH UNTUK MENJALANKAN =
-$ pkg upgrade && pkg upgrade
-$ pkg install python python2 python3
-$ pkg install nano
-$ pkg install figlet
-$ pkg install ruby
-$ pkg install toilet
-$ pkg install git curl wget
-$ pkg install bash
-$ pkg install php
-$ pkg install pip
-$ pip install --upgrade pip
-$ pip install requests
-$ git clone https://github.com/HRCXXII/SPAM-SMS-XXII.git
-$ cd SPAM-SMS-XXII
-$ chmod +x SpamSMSQ.py
-$ python SpamSMSQ.py
+# SPAM-SMS-XXII <br>
+KATA PERINTAH UNTUK MENJALANKAN = <br>
+<br>
+$ pkg upgrade && pkg upgrade <br>
+$ pkg install python python2 python3 <br>
+$ pkg install nano <br>
+$ pkg install figlet <br>
+$ pkg install ruby <br>
+$ pkg install toilet <br>
+$ pkg install git curl wget <br>
+$ pkg install bash <br>
+$ pkg install php <br>
+$ pkg install pip <br>
+$ pip install --upgrade pip <br>
+$ pip install requests <br>
+$ git clone https://github.com/HRCXXII/SPAM-SMS-XXII.git <br>
+$ cd SPAM-SMS-XXII <br>
+$ chmod +x SpamSMSQ.py <br>
+$ python SpamSMSQ.py <br>
